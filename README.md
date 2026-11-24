@@ -14,12 +14,13 @@
 ### Öne çıkan çalışmalar
 | Proje | Ne? | Teknoloji |
 |---|---|---|
+| [SahibindenBot](https://github.com/kadirtopl/SahibindenBot) · [WhatsappSahibindenMesaj](https://github.com/kadirtopl/WhatsappSahibindenMesaj) · [DataBot](https://github.com/kadirtopl/DataBot) | Scout Bot — RE/MAX için ilan toplama + WhatsApp otomasyonu | C#, .NET 8, Selenium, Node.js, TypeScript, Firebase |
 | [sahin-mermer](https://github.com/kadirtopl/sahin-mermer) | 3D mutfak tezgâhı görselleştirme — [sahinmermer.com.tr](https://sahinmermer.com.tr) | Three.js, JavaScript |
 | [kadirtopls](https://github.com/kadirtopl/kadirtopls) | Flip — dil öğrenme uygulaması, ana ekran widget'ı | React Native, Expo, Firebase |
 | [PerformansDegerlendirmeSistemi](https://github.com/kadirtopl/PerformansDegerlendirmeSistemi) | VakıfBank stajı | .NET 8, Oracle, Angular |
 | [VAKIFBANK-TAM](https://github.com/kadirtopl/VAKIFBANK-TAM) | Yapay zekâ destekli akıllı market uygulaması | Kotlin |
 
-> Ticari projelerimin (Düğün Sepetim, Scout Bot) kaynak kodu gizlidir; görüşmede canlı demo gösterebilirim.
+> Düğün Sepetim'in kaynak kodu gizlidir; görüşmede canlı demo gösterebilirim.
 
 ---
 *English:* Computer Engineer and full-stack / mobile developer from Kocaeli, Türkiye. Founder of Düğün Sepetim; built AI-powered automation bots used by 4 real-estate firms at RE/MAX. Open to software developer and analyst roles.
